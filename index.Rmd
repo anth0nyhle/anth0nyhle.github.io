@@ -26,7 +26,7 @@ output:
 
 I am a biomedical engineer focused on using biomechanics, robotics, and data science to improve surgical treatment strategies and clinical outcomes in orthopaedics.
 
-I earned my PhD in Biomedical Engineering at the University of Utah, where I conducted research in the [FAMM Lab](https://lenzfammlab.mech.utah.edu/) within the Department of Mechanical Engineering. My work focused in foot and ankle orthopaedic biomechanics, developing a robotic cadaveric simulator to study the kinematic mechanisms of the foot and ankle joints. This research combines biomechanics, robotics, and machine learning to provide a unique interdisciplinary approach to understanding foot and ankle function.
+I earned my PhD in Biomedical Engineering at the University of Utah, where I conducted research in the [FAMM Lab](https://lenzfammlab.mech.utah.edu/) in the Department of Mechanical Engineering. My work focused in foot and ankle orthopaedic biomechanics, developing a robotic cadaveric simulator to study the kinematic mechanisms of the talocrural, subtalar, and midtarsal joints. This research combines biomechanics, robotics, and machine learning to provide a unique interdisciplinary approach to understanding foot and ankle function.
 
 I also completed Graduate Certificate in Deep Learning in AI & Robotics from the Kahlert School of Computing at the University of Utah, where I strengthened my expertise in robotics and machine learning through advanced coursework in machine learning, deep learning, data visualization, and medical robotics.
 
