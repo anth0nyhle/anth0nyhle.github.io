@@ -13,7 +13,7 @@ links:
   # - label: CV
   #   url: "https://anthonyhle.com/cv.html"
   - label: CV
-    url: "https://anth0nyhle.github.io/documents/cv/Le_CV_20250921.pdf"
+    url: "https://anth0nyhle.github.io/documents/cv/Le_CV_20251027.pdf"
   - label: Publications
     url: "https://anthonyhle.com/publications.html"
   - label: Projects
@@ -24,7 +24,7 @@ output:
  
 ## Hello world! 👋
 
-I am a biomedical engineer focused on using biomechanics, robotics, and data science to improve surgical treatment strategies and clinical outcomes in orthopaedics.
+I am a biomechanical engineer focused on using biomechanics, robotics, and data science to drive innovation in medical devices and health technologies.
 
 I earned my PhD in Biomedical Engineering at the University of Utah in 2025, where I conducted research in the [FAMM Lab](https://lenzfammlab.mech.utah.edu/) within the Department of Mechanical Engineering. My work focused on foot and ankle orthopaedic biomechanics, developing a robotic cadaveric simulator with an integrated tendon force actuator system to study the kinematic mechanisms of the talocrural, subtalar, and midtarsal joints. This research combines biomechanics, robotics, and machine learning to provide a unique interdisciplinary approach to understanding foot and ankle function.
 
