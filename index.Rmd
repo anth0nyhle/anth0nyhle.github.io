@@ -13,7 +13,11 @@ links:
   # - label: CV
   #   url: "https://anthonyhle.com/cv.html"
   - label: CV
+<<<<<<< HEAD
     url: "https://anth0nyhle.github.io/documents/cv/Le_CV_20251112.pdf"
+=======
+    url: "https://anth0nyhle.github.io/documents/cv/Le_CV_20251027.pdf"
+>>>>>>> 6aa68d4e501250b2a5efb6ab8ab44ae2a2b7f27f
   - label: Publications
     url: "https://anthonyhle.com/publications.html"
   - label: Projects
@@ -24,21 +28,19 @@ output:
  
 ## Hello world! 👋
 
-I am a biomedical engineer focused on using biomechanics, robotics, and data science to improve surgical treatment strategies and clinical outcomes in orthopaedics.
+I am a biomechanical engineer focused on using biomechanics, robotics, and data science to drive innovation in medical devices and health technologies.
 
-As a PhD candidate in Biomedical Engineering at the University of Utah, I conduct research in the Foot & Ankle Mechanics and Morphology (FAMM) Lab at the University of Utah, specializing in foot and ankle biomechanics.
+I earned my PhD in Biomedical Engineering at the University of Utah in 2025, where I conducted research in the [FAMM Lab](https://lenzfammlab.mech.utah.edu/) within the Department of Mechanical Engineering. My work focused on foot and ankle orthopaedic biomechanics, developing a robotic cadaveric simulator with an integrated tendon force actuator system to study the kinematic mechanisms of the talocrural, subtalar, and midtarsal joints. This research combines biomechanics, robotics, and machine learning to provide a unique interdisciplinary approach to understanding foot and ankle function.
 
-My dissertation aims to develop a robotic simulator to study the kinematic mechanisms of the ankle and hindfoot joints and how different arthrodeses affect their functionality. This work combines biomechanics, robotics, controls, and machine learning to provide a unique interdisciplinary approach to understanding foot and ankle function.
-
-I am also pursuing a Graduate Certificate in Deep Learning in AI & Robotics in the Kahlert School of Computing at the University of Utah to further develop my expertise in robotics and machine learning through courses in machine learning, deep learning, data visualization, and medical robotics.
+I also completed Graduate Certificate in Deep Learning in AI & Robotics from the Kahlert School of Computing at the University of Utah, where I strengthened my expertise in robotics and machine learning through advanced coursework in machine learning, deep learning, data visualization, and medical robotics.
 
 ******
 
 ## Career Objective 🚀
 
-My career goal is to leverage robotics and data science to solve real-world problems and make a positive impact, particularly in disadvantaged and underrepresented communities.
+My career goal is to leverage robotics and data science to address real-world problems and create positive impact, particularly for disadvantaged and underrepresented communities.
 
-I am interested in roles as a data scientist, robotics engineer, or clinical development/research engineer within medical robotics, medical devices, or health technology.
+I am seeking opportunities as a research engineer, product development engineer, clinical development engineer, or systems engineer in medical robotics, medical devices, or health technology.
 
 <!-- ****** -->
 
@@ -74,9 +76,9 @@ When I am not designing hardware or troubleshooting code, I am out mountain biki
 
 ## Education 🎓
 
-**PhD in Biomedical Engineering** | University of Utah | Aug 2025 (expected)
+**PhD in Biomedical Engineering** | University of Utah | Aug 2025
 
-**Graduate Certificate in Deep Learning in AI & Robotics** | University of Utah | May 2025 (expected)
+**Graduate Certificate in Deep Learning in AI & Robotics** | University of Utah | May 2025
 
 **MS in Bioengineering, Minor in Robotics** | Oregon State University | Dec 2020
 
@@ -118,15 +120,15 @@ When I am not designing hardware or troubleshooting code, I am out mountain biki
 
 ## Leadership & Service 🤓
 
-**American Society of Biomechanics - Utah Student Chapter** | Vice President/Treasurer | Aug 2022--Present
+**American Society of Biomechanics - Utah Student Chapter** | Vice President/Treasurer | Aug 2022--May 2025
 
 <!-- **American Society of Biomechanics - Utah Student Chapter** | Member | Jan 2022--Present -->
 
-**Utah BME Graduate Student Advisory Committee** | EDI Co-Chair, Co-Treasurer | Aug 2021--Present
+**Utah BME Graduate Student Advisory Committee** | EDI Co-Chair, Co-Treasurer | Aug 2021--May 2025
 
 <!-- **Utah BME Graduate Student Advisory Committee** | Member | Jan 2022--Present -->
 
-**Utah Graduate Women in Biomedical Engineering** | Member | Jan 2022--Present
+**Utah Graduate Women in Biomedical Engineering** | Member | Jan 2022--May 2025
 
 **OSU CBEE Graduate Student Association** | Bioengineering Chairman | 2017--2018
 
