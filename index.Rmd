@@ -24,9 +24,6 @@ output:
 #   - <link rel="icon" type="image/x-icon" href="https://anth0nyhle.github.io/images/initials_icon_v1.ico">
 ---
 
-<!-- Favicon -->
-<link rel="icon" type="image/x-icon" href="https://anth0nyhle.github.io/images/initials_icon_v1.ico">
-
 ## Hello world! 👋
 
 I am a biomechanical engineer focused on using biomechanics, robotics, and data science to drive innovation in medical devices and health technologies.
