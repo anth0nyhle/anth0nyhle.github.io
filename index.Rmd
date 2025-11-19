@@ -1,6 +1,6 @@
 ---
 title: "Tony Le"
-image: "./images/Le_Profile_Photo.jpg"
+image: "./images/profile_photo.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/anth0nyhle/"
@@ -20,6 +20,8 @@ links:
     url: "https://anthonyhle.com/projects.html"
 output:
   postcards::trestles
+header-includes:
+  - <link rel="icon" type="image/x-icon" href="./images/initials_icon_v1.ico">
 ---
  
 ## Hello world! 👋
