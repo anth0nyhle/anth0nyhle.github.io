@@ -20,8 +20,6 @@ links:
     url: "https://anthonyhle.com/projects.html"
 output:
   postcards::trestles
-# header-includes:
-#   - <link rel="icon" type="image/x-icon" href="https://anth0nyhle.github.io/images/initials_icon_v1.ico">
 ---
 
 ## Hello world! 👋
